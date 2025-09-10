@@ -1,10 +1,7 @@
 
 # CollabFlow - pixel perfect, E2E clone of Trello (React + Node.js). 
 
-Kanban-style task management board app inspired by trello.com, [Here is my project link](https://collabflow.onrender.com/ "CollabFlow link").
-
-
-![board](https://user-images.githubusercontent.com/116891360/225691142-1a13f625-cc06-4659-a301-39e43ed7f503.png)
+Kanban-style task management board app inspired by trello.com
 
 
 ___
@@ -14,7 +11,6 @@ ___
 - [Application Features](#application-features)
 - [Technologies](#technologies)
 - [Getting started](#getting-started)
-- [Showcase](#showcase)
 
 ## Trello Description
 Trello is an app in which you can manage projects and tasks using a kanban board. A board contains lists and tasks. Usually each project is a board, and the lists and cards are the tasks and subjects in the project. Users can modify the board and change list and card locations using Drag and Drop.
